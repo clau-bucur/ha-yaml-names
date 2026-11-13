@@ -1,0 +1,14 @@
+{
+  "domain": "yaml_names",
+  "name": "YAML Names",
+  "version": "1.0.3",
+  "documentation": "https://github.com/clau-bucur/ha-yaml-names#readme",
+  "codeowners": [
+    "@clau-bucur"
+  ],
+  "dependencies": [],
+  "requirements": [],
+  "iot_class": "local_push",
+  "integration_type": "helper",
+  "issue_tracker": "https://github.com/clau-bucur/ha-yaml-names/issues"
+}

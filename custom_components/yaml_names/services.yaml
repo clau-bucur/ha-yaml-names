@@ -1,0 +1,11 @@
+reload:
+  name: Reload YAML names
+  description: Validate and reload name rules, including packages. Removed rules restore saved names. Invalid configuration leaves active rules unchanged.
+
+migration_preview:
+  name: Preview friendly name migration
+  description: Return proposed YAML and entity details for existing homeassistant friendly_name customizations, including packages. No names or configuration files are changed.
+
+restore:
+  name: Restore previous names
+  description: Restore saved names and stop managing them until the next YAML Names reload or Home Assistant restart. Remove YAML Names configuration before restarting to uninstall.
